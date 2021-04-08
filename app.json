@@ -28,6 +28,7 @@
     "web": {
       "favicon": "./app/assets/favicon.png"
     },
-    "description": "GuessWorkApp is a simple game written in JavaScript. The program allows a\nuser to select a number and gauge the computer guesses whether it's lower(-) \nor greater(+) than the user's selected number until the computer guesses \nthe real user's selected number. It also keeps the records of the number of\nguesses."
+    "description": "GuessWorkApp is a simple game written in JavaScript. The program allows a\nuser to select a number and gauge the computer guesses whether it's lower(-) \nor greater(+) than the user's selected number until the computer guesses \nthe real user's selected number. It also keeps the records of the number of\nguesses.",
+    "githubUrl": "https://github.com/cherotwokibet/GuessWorkApp"
   }
 }
